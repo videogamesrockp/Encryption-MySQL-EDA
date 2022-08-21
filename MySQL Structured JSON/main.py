@@ -5,8 +5,8 @@ from department import department
 import jsonpickle
 import os
 
-cnx = mysql.connector.connect(user='root', password='******************',
-                              host='192.168.1.21',
+cnx = mysql.connector.connect(user='*****', password='******************',
+                              host='*********',
                               database='employees')
 os.chdir("*************")
 
